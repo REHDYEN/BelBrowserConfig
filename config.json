@@ -1,6 +1,7 @@
 {
   "SAP_URL_QAS": "http://pelnx16133.galileo.ebel:8000/sap/bc/gui/sap/its/zlm01_its/?sap-client=400&sap-language=ES",
   "SAP_URL_PRD": "http://pelnx1534.galileo.ebel:8000/sap/bc/gui/sap/its/zlm01_its/?sap-client=400&sap-language=ES",
-  "ENABLE_FEATURE_FLAG": false
-
+  "ENABLE_FEATURE_FLAG_MX": false,
+  "ENABLE_FEATURE_FLAG_CO": true,
+  "ENABLE_FEATURE_FLAG_PE": true
 }
